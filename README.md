@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbdianRizky
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning in SMKN 1 Cibinong 
+- 👀 I’m interested in Computer Sience, some cool technology, and many more
+- 🌱 I’m currently studying in SMKN 1 Cibinong 
 - 💞️ I’m looking to collaborate on 
 - 📫 Contact me on abdianrizky11@gmail.com if you wonder to reach me
 
