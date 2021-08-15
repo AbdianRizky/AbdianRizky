@@ -8,18 +8,18 @@ Ok, so actually his full name is **Abdian Rizky Ramadan** usually called **Adon*
 
 His **traits** according to those closest to him:
   - His Mother👵
-    > *" Adon is my son, i know him very well, he is a very handsome boy well he is my son :D "* - Mrs. [Elin](siti.herriyah@gmail.com) as his beautiful mother
+    > *" Adon is my son, i know him very well, he is a very handsome boy well he is my son :D "* - [Mrs. Elin](mailto:siti.herriyah@gmail.com) as his beautiful mother
 
   - His Mentor👨‍🏫
-    > *" Adon is my son, i know him very well, he is a very handsome boy well he is my son :D "* - Mr. [Ahmad Alangkibar](alangkibar25@gmail.com) as someone who plays an important role in his life
+    > *" Adon is my son, i know him very well, he is a very handsome boy well he is my son :D "* - [Mr. Ahmad Alangkibar](mailto:alangkibar25@gmail.com) as someone who plays an important role in his life
     > 
   
   - His Girlfriend👧
-    > *" Adon is my son, i know him very well, he is a very handsome boy well he is my son :D "* - [Rifka adzanti](rifka.adzanti@gmail.com) as his beautiful Girlfriend
+    > *" Adon is my son, i know him very well, he is a very handsome boy well he is my son :D "* - [Rifka adzanti](mailto:rifka.adzanti@gmail.com) as his beautiful Girlfriend
     > 
   
   - His Bestfriend👦
-    > *" Adon is my son, i know him very well, he is a very handsome boy well he is my son :D "* - [Faishal Aziz Monoarfa](fazizmonoarfa@gmail.com) as his handsome Bestfriend
+    > *" Adon is my son, i know him very well, he is a very handsome boy well he is my son :D "* - [Faishal Aziz Monoarfa](mailto:fazizmonoarfa@gmail.com) as his handsome Bestfriend
     > 
 
 ---
