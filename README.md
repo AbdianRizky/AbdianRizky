@@ -30,12 +30,12 @@ His **traits** according to those closest to him:
     > 
     > May 2021 - Present
 
-  - > ### Wordpress Developer
+  - > #### Wordpress Developer
     > [IS Consulting](https://isconsulting.co.id) - Freelance
     > 
     > April 2021 - June 2021
 
-  - > ### Junior Back-End Developer
+  - > #### Junior Back-End Developer
     > PT. Igoid Bisnis Global - Internship
     > 
     > March 2020 - July 2020
