@@ -1,6 +1,6 @@
 # 👋Hi there! you're now on Abdian Rizky's profile
 
-He's currently work👨‍💻 as Back-End Developer at DreamHouseLab and student👨‍🎓 of Multimedia Majority at SMK Negeri 1 Cibinong. <br> Now let's see👀 what he has
+He's currently working👨‍💻 as a Back-End Developer at DreamHouseLab and student👨‍🎓 of Multimedia Majority at SMK Negeri 1 Cibinong. <br> Now let's see👀 what he has
 
 ### 1. 🧑Personality
 
