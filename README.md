@@ -25,17 +25,17 @@ His **traits** according to those closest to him:
 ---
 
 ### 2. 👔Experience
-  - > #### Back-End Developer
+  - > ### Back-End Developer
     > DreamHouseLab - Internship
     > 
     > May 2021 - Present
 
-  - > #### Wordpress Developer
-    > [IS Consulting](isconsulting.co.id) - Freelance
+  - > ### Wordpress Developer
+    > [IS Consulting](https://isconsulting.co.id) - Freelance
     > 
     > April 2021 - June 2021
 
-  - > #### Junior Back-End Developer
+  - > ### Junior Back-End Developer
     > PT. Igoid Bisnis Global - Internship
     > 
     > March 2020 - July 2020
@@ -44,7 +44,7 @@ His **traits** according to those closest to him:
 
 ### 3. 👨‍🎓Education 
 
-  - > #### SMK Negeri 1 Cibinong
+  - > ### SMK Negeri 1 Cibinong
     > Student of Multimedia Majority
     > 
     > 2019 - 2022
@@ -85,5 +85,5 @@ His **traits** according to those closest to him:
 ### 5. 🕵️‍♂️Contacts
 - 📧Gmail   : abdianrizky11@gmail.com
 - 🔗Linkedin: [adonisme2k](https://www.linkedin.com/in/adonisme2k/)
-- 🌐Website : [adonism.me](adonism.me)
+- 🌐Website : [adonism.me](https://adonism.me)
 - 🤳Social  : adonisme2k (for all social media platform that ever exists)
