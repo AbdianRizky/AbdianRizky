@@ -4,35 +4,40 @@ He's currently work👨‍💻 as Back-End Developer at DreamHouseLab and studen
 
 ### 1. 🧑Personality
 
-Ok, so actually his full name is **Abdian Rizky Ramadan** usually called **Adon** by his family and friends. As a child he dreamed of becoming an Indonesian soldier but he realized that in the future technology would develop very rapidly so he changed his dream to become an **IT Professional** who can change and advance his nation, country and family even the world if that is possible. His **traits** according to those closest to him:
+Ok, so actually his full name is **Abdian Rizky Ramadan** usually called **Adon** by his family and friends. he was born in Bekasi on November 10, 2003, and in 2010 he moved to Bojonggede, Bogor which is now his current residence. As a child he dreamed of becoming an Indonesian soldier but he realized that in the future technology would develop very rapidly so he changed his dream to become an **IT Professional** who can change and advance his nation, country and family even the world if that is possible. So, in order to do that I will take every opportunity, risk and knowledge that can make me an IT Professional. 
+
+His **traits** according to those closest to him:
   - His Mother👵
-    > *" Adon is my son, i know him very well, he is a very handsome boy well he is my son :D "* - Mrs. Elin as his beautiful mother
+    > *" Adon is my son, i know him very well, he is a very handsome boy well he is my son :D "* - Mrs. [Elin](siti.herriyah@gmail.com) as his beautiful mother
 
   - His Mentor👨‍🏫
-    > *" Adon is my son, i know him very well, he is a very handsome boy well he is my son :D "* - Mrs. Elin as his beautiful mother
+    > *" Adon is my son, i know him very well, he is a very handsome boy well he is my son :D "* - Mr. [Ahmad Alangkibar](alangkibar25@gmail.com) as someone who plays an important role in his life
     > 
   
   - His Girlfriend👧
-    > *" Adon is my son, i know him very well, he is a very handsome boy well he is my son :D "* - Mrs. Elin as his beautiful mother
+    > *" Adon is my son, i know him very well, he is a very handsome boy well he is my son :D "* - [Rifka adzanti](rifka.adzanti@gmail.com) as his beautiful Girlfriend
     > 
   
   - His Bestfriend👦
-    > *" Adon is my son, i know him very well, he is a very handsome boy well he is my son :D "* - [Faishal Aziz Monoarfa]() as his beautiful mother
+    > *" Adon is my son, i know him very well, he is a very handsome boy well he is my son :D "* - [Faishal Aziz Monoarfa](fazizmonoarfa@gmail.com) as his handsome Bestfriend
     > 
 
 ---
 
 ### 2. 👔Experience
   - > #### Back-End Developer
-    > DreamHouseLab - internship
+    > DreamHouseLab - Internship
+    > 
     > May 2021 - Present
 
   - > #### Wordpress Developer
-    > IS Consulting - Freelance
+    > [IS Consulting](isconsulting.co.id) - Freelance
+    > 
     > April 2021 - June 2021
 
   - > #### Junior Back-End Developer
     > PT. Igoid Bisnis Global - Internship
+    > 
     > March 2020 - July 2020
 
 ---
@@ -41,6 +46,7 @@ Ok, so actually his full name is **Abdian Rizky Ramadan** usually called **Adon*
 
   - > #### SMK Negeri 1 Cibinong
     > Student of Multimedia Majority
+    > 
     > 2019 - 2022
 
   - > #### SMP Negeri 2 Bojonggede
@@ -78,6 +84,6 @@ Ok, so actually his full name is **Abdian Rizky Ramadan** usually called **Adon*
 
 ### 5. 🕵️‍♂️Contacts
 - 📧Gmail   : abdianrizky11@gmail.com
-- 🔗Linkedin: adonisme2k
-- 🌐Website : adonisme2k.me
+- 🔗Linkedin: [adonisme2k](https://www.linkedin.com/in/adonisme2k/)
+- 🌐Website : [adonism.me](adonism.me)
 - 🤳Social  : adonisme2k (for all social media platform that ever exists)
