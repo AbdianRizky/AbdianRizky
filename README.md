@@ -61,17 +61,17 @@ His **traits** according to those closest to him:
 
 1. Industry Knowledge
 
-| Back-End      | Front-End     | UI/UX          | Others    |
-|---------------|---------------|----------------|-----------|
-| PHP           | Javascript    | Figma          | Wordpress |
-| Ruby          | VueJS         | Adobe XD       |           |
-| Python        | ReactJS       | Blender        |           |
-| Laravel       | Gatsby        | 3D Design      |           |
-| Laravel Lumen | HTML          | Web Design     |           |
-| NodeJS        | CSS           | Graphic Design |           |
-| ExpressJS     | Tailwind CSS  |                |           |
-| GraphQL       | Bootstrap CSS |                |           |
-| MySQL         | Gatsby        |                |           |
+| Back-End      | Front-End     | UI/UX          | Others       |
+|---------------|---------------|----------------|--------------|
+| PHP           | Javascript    | Figma          | Wordpress    |
+| Ruby          | VueJS         | Adobe XD       | Git Workflow |
+| Python        | ReactJS       | Blender        |              |
+| Laravel       | Gatsby        | 3D Design      |              |
+| Laravel Lumen | HTML          | Web Design     |              |
+| NodeJS        | CSS           | Graphic Design |              |
+| ExpressJS     | Tailwind CSS  | Mobile Design  |              |
+| GraphQL       | Bootstrap CSS |                |              |
+| MySQL         | Flutter       |                |              |
   
 2. Languages
   - > #### Bahasa Indonesia 
