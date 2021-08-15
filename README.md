@@ -1,4 +1,4 @@
-## 👋Hi there! you're now on Abdian Rizky's profile
+# 👋Hi there! you're now on Abdian Rizky's profile
 
 He's currently work👨‍💻 as Back-End Developer at DreamHouseLab and student👨‍🎓 of Multimedia Majority at SMK Negeri 1 Cibinong. <br> Now let's see👀 what he has
 
@@ -20,7 +20,22 @@ Ok, so actually his full name is **Abdian Rizky Ramadan** usually called **Adon*
     > *" Adon is my son, i know him very well, he is a very handsome boy well he is my son :D "* - [Faishal Aziz Monoarfa]() as his beautiful mother
     > 
 
+---
+
 ### 2. 👔Experience
+  - > #### Back-End Developer
+    > DreamHouseLab - internship
+    > May 2021 - Present
+
+  - > #### Wordpress Developer
+    > IS Consulting - Freelance
+    > April 2021 - June 2021
+
+  - > #### Junior Back-End Developer
+    > PT. Igoid Bisnis Global - Internship
+    > March 2020 - July 2020
+
+---
 
 ### 3. 👨‍🎓Education 
 
@@ -34,6 +49,8 @@ Ok, so actually his full name is **Abdian Rizky Ramadan** usually called **Adon*
   - > #### SD Negeri Bambu Kuning
     > 2010 - 2016
 
+---
+
 ### 4. 🤹‍♂️Skills
 
 1. Industry Knowledge
@@ -42,10 +59,10 @@ Ok, so actually his full name is **Abdian Rizky Ramadan** usually called **Adon*
 |---------------|---------------|----------------|-----------|
 | PHP           | Javascript    | Figma          | Wordpress |
 | Ruby          | VueJS         | Adobe XD       |           |
-| Python        | ReactJS       | Graphic Design |           |
+| Python        | ReactJS       | Blender        |           |
 | Laravel       | Gatsby        | 3D Design      |           |
 | Laravel Lumen | HTML          | Web Design     |           |
-| NodeJS        | CSS           |                |           |
+| NodeJS        | CSS           | Graphic Design |           |
 | ExpressJS     | Tailwind CSS  |                |           |
 | GraphQL       | Bootstrap CSS |                |           |
 | MySQL         | Gatsby        |                |           |
@@ -56,7 +73,9 @@ Ok, so actually his full name is **Abdian Rizky Ramadan** usually called **Adon*
   
   - > #### English
     > Limited working proficiency
-  
+
+---
+
 ### 5. 🕵️‍♂️Contacts
 - 📧Gmail   : abdianrizky11@gmail.com
 - 🔗Linkedin: adonisme2k
