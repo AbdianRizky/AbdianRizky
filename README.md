@@ -25,17 +25,17 @@ His **traits** according to those closest to him:
 ---
 
 ### 2. 👔Experience
-  - > ### Back-End Developer
+  - > **Back-End Developer** <br>
     > DreamHouseLab - Internship
     > 
     > May 2021 - Present
 
-  - > #### Wordpress Developer
+  - > **Wordpress Developer** <br>
     > [IS Consulting](https://isconsulting.co.id) - Freelance
     > 
     > April 2021 - June 2021
 
-  - > #### Junior Back-End Developer
+  - > **Junior Back-End Developer** <br>
     > PT. Igoid Bisnis Global - Internship
     > 
     > March 2020 - July 2020
@@ -44,40 +44,39 @@ His **traits** according to those closest to him:
 
 ### 3. 👨‍🎓Education 
 
-  - > ### SMK Negeri 1 Cibinong
-    > Student of Multimedia Majority
-    > 
-    > 2019 - 2022
+  - > **SMK Negeri 1 Cibinong** <br>
+    > _Student of Multimedia Majority_ | 2019 - 2022
 
-  - > #### SMP Negeri 2 Bojonggede
+  - > **SMP Negeri 2 Bojonggede** <br>
     > 2016 - 2019
 
-  - > #### SD Negeri Bambu Kuning
+  - > **SD Negeri Bambu Kuning** <br>
     > 2010 - 2016
 
 ---
 
 ### 4. 🤹‍♂️Skills
 
-1. Industry Knowledge
+1. Technology Knowledge
 
-| Back-End      | Front-End     | UI/UX          | Others       |
-|---------------|---------------|----------------|--------------|
-| PHP           | Javascript    | Figma          | Wordpress    |
-| Ruby          | VueJS         | Adobe XD       | Git Workflow |
-| Python        | ReactJS       | Blender        |              |
-| Laravel       | Gatsby        | 3D Design      |              |
-| Laravel Lumen | HTML          | Web Design     |              |
-| NodeJS        | CSS           | Graphic Design |              |
-| ExpressJS     | Tailwind CSS  | Mobile Design  |              |
-| GraphQL       | Bootstrap CSS |                |              |
-| MySQL         | Flutter       |                |              |
+| Back-End      | Front-End     | UI/UX          | Tools           | Others       |
+|---------------|---------------|----------------|-----------------|--------------|
+| PHP           | Javascript    | Figma          | Figma           | Wordpress    |
+| Ruby          | VueJS         | Adobe XD       | Adobe XD        | Git Workflow |
+| Python        | ReactJS       | Blender        | Blender         | Others       |
+| Laravel       | Gatsby        | 3D Design      | Adobe Photoshop | Others       |
+| Laravel Lumen | HTML          | Web Design     | Adobe Illustrator  | Others       |
+| NodeJS        | CSS           | Graphic Design | Adobe Animate                | Others       |
+| ExpressJS     | Tailwind CSS  | Mobile Design  |                 | Others       |
+| GraphQL       | Bootstrap CSS |                |                 | Others       |
+| MySQL         | Flutter       |                |                 | Others       |
+|               | Sass          |                |                 | Others       |
   
 2. Languages
-  - > #### Bahasa Indonesia 
+  - > **Bahasa Indonesia** <br>
     > Native or bilingual proficiency 
   
-  - > #### English
+  - > **English** <br>
     > Limited working proficiency
 
 ---
