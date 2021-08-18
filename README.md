@@ -26,7 +26,7 @@ His **traits** according to those closest to him:
 
 ### 2. 👔Experience
   - > **Back-End Developer** <br>
-    > DreamHouseLab - Internship
+    > [DreamHouseLab](https://dreamhouselab.com/) - Internship
     > 
     > May 2021 - Present
 
@@ -36,7 +36,7 @@ His **traits** according to those closest to him:
     > April 2021 - June 2021
 
   - > **Junior Back-End Developer** <br>
-    > PT. Igoid Bisnis Global - Internship
+    > [PT. Igoid Bisnis Global](https://www.igoid.co.id/) - Internship
     > 
     > March 2020 - July 2020
 
@@ -44,13 +44,13 @@ His **traits** according to those closest to him:
 
 ### 3. 👨‍🎓Education 
 
-  - > **SMK Negeri 1 Cibinong** <br>
+  - > **[SMK Negeri 1 Cibinong](https://smkn1cibinong.sch.id/main/)** <br>
     > _Student of Multimedia Majority_ | 2019 - 2022
 
-  - > **SMP Negeri 2 Bojonggede** <br>
+  - > **[SMP Negeri 2 Bojonggede](https://smpn2bojonggede.sch.id/)** <br>
     > 2016 - 2019
 
-  - > **SD Negeri Bambu Kuning** <br>
+  - > **[SD Negeri Bambu Kuning](https://sdnbambukuning.webs.com/)** <br>
     > 2010 - 2016
 
 ---
@@ -59,19 +59,19 @@ His **traits** according to those closest to him:
 
 1. Technology Knowledge
 
-| Back-End      | Front-End     | UI/UX          | Tools           | Others       |
-|---------------|---------------|----------------|-----------------|--------------|
-| PHP           | Javascript    | Figma          | Figma           | Wordpress    |
-| Ruby          | VueJS         | Adobe XD       | Adobe XD        | Git Workflow |
-| Python        | ReactJS       | Blender        | Blender         | Others       |
-| Laravel       | Gatsby        | 3D Design      | Adobe Photoshop | Others       |
-| Laravel Lumen | HTML          | Web Design     | Adobe Illustrator  | Others       |
-| NodeJS        | CSS           | Graphic Design | Adobe Animate                | Others       |
-| ExpressJS     | Tailwind CSS  | Mobile Design  |                 | Others       |
-| GraphQL       | Bootstrap CSS |                |                 | Others       |
-| MySQL         | Flutter       |                |                 | Others       |
-|               | Sass          |                |                 | Others       |
-  
+| Back-End      | Front-End     | UI/UX          | Tools             | Others       |
+|---------------|---------------|----------------|-------------------|--------------|
+| PHP           | Javascript    | Figma          | Figma             | Wordpress    |
+| Ruby          | VueJS         | Adobe XD       | Adobe XD          | Git Workflow |
+| Python        | ReactJS       | Blender        | Blender           | Others       |
+| Laravel       | Gatsby        | 3D Design      | Adobe Photoshop   | Others       |
+| Laravel Lumen | HTML          | Web Design     | Adobe Illustrator | Others       |
+| NodeJS        | CSS           | Graphic Design | Adobe Animate     | Others       |
+| ExpressJS     | Tailwind CSS  | Mobile Design  |                   | Others       |
+| GraphQL       | Bootstrap CSS |                |                   | Others       |
+| MySQL         | Flutter       |                |                   | Others       |
+|               | Sass          |                |                   | Others       |
+
 2. Languages
   - > **Bahasa Indonesia** <br>
     > Native or bilingual proficiency 
